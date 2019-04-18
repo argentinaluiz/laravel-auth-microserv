@@ -11,6 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::group(['can' => 'admin'], function () {
+//    Route::get('/home', 'HomeController@index')->name('home');
+//});
+//
+//Auth::routes(['register' => false]);

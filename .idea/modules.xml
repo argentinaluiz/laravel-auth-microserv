@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/laravel-auth-microserv.iml" filepath="$PROJECT_DIR$/.idea/laravel-auth-microserv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laravel-broker1/.idea/laravel-broker1.iml" filepath="$PROJECT_DIR$/../laravel-broker1/.idea/laravel-broker1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../laravel-sso/.idea/laravel-sso.iml" filepath="$PROJECT_DIR$/../laravel-sso/.idea/laravel-sso.iml" />
     </modules>
   </component>
 </project>
